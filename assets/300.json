@@ -1,0 +1,21 @@
+{
+  "name": "SOLBIRD #11",
+  "symbol": "",
+  "description": "Collection created by Solbird",
+  "seller_fee_basis_points": 5,
+  "image": "image.png",
+  "properties": {
+    "creators": [
+      {
+        "address": "EqLDv9MkMQNtrg5m2cVPk6ShXMAFgACbbWN7WHqxGvi",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

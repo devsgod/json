@@ -1,0 +1,39 @@
+{
+  "name": "SOLBIRD #979",
+  "symbol": "",
+  "description": "Collection created by Solbird",
+  "seller_fee_basis_points": 5,
+  "image": "image.png",
+   "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "0"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+   },
+   {
+      "trait_type": "Rarity Rank",
+      "value": "Null"
+    }
+  ],
+  "collection": {
+     "Background": "test",
+     "family": "test" 
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "EqLDv9MkMQNtrg5m2cVPk6ShXMAFgACbbWN7WHqxGvi",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
